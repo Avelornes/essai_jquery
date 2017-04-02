@@ -1,0 +1,6 @@
+Consigne :
+
+Créer un générateur de formulaire.
+La div droite contient les input à remplir par l'user (label, id, button).
+La div gauche reçoit le formulaire généré.
+Une fois généré, la div droite doit être vide.
