@@ -1,0 +1,8 @@
+Consigne :
+
+Faire un questionnaire interactif.
+Dissimuler les réponses.
+Mettre en forme les éléments.
+Réagir au survol des liens "tester les réponses" :
+    - changer les icônes suivant la réponse (faux, vrai)
+    - générer un texte explicatif en vert ou rouge suivant la réponse
